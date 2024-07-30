@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A Full-Stack Developer by day ☼ and a Meme Creator by night ☾
+I'm Ron, A Full-Stack Developer by day ☼ and a Meme Creator by night ☾
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
