@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Ron, A Full-Stack Developer by day ☀️ and a Meme Creator by night 🌙
+I'm Ron, a full-stack developer by day 💻 and a problem solver by night 🚀.
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -22,4 +22,3 @@ I'm Ron, A Full-Stack Developer by day ☀️ and a Meme Creator by night 🌙
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![OpenShift](https://img.shields.io/badge/-OpenShift-000?logo=Red%20Hat&logoColor=red)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?&logo=Elasticsearch)
-
