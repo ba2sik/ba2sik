@@ -28,3 +28,7 @@ I'm Ron, a full-stack developer by day 💻 and a problem solver by night 🚀.
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![OpenShift](https://img.shields.io/badge/-OpenShift-000?logo=Red%20Hat&logoColor=red)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?&logo=Elasticsearch)
+![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=Prisma)
+![Zod](https://img.shields.io/badge/-Zod-000?&logo=Zod)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
