@@ -2,6 +2,12 @@
 
 I'm Ron, a full-stack developer by day 💻 and a problem solver by night 🚀.
 
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://www.linkedin.com/in/ronzano1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/7845797/ron-zano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
+
+
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
